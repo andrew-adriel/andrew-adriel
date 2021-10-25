@@ -1,9 +1,5 @@
 ### Oi, eu sou o Andrew
 
-- 📘 Atualmente estou estudando Python, HTML e CSS
-- ✉ Contate-me em: andrewadrielgithub@gmail.com
-- 😄 Pronomes: Ele/Dele
-
 <div align="center">
   <a href="https://github.com/andrew-adriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrew-adriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
